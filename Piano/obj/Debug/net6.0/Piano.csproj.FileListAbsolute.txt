@@ -1,0 +1,14 @@
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\bin\Debug\net6.0\Piano.exe
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\bin\Debug\net6.0\Piano.deps.json
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\bin\Debug\net6.0\Piano.runtimeconfig.json
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\bin\Debug\net6.0\Piano.dll
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\bin\Debug\net6.0\Piano.pdb
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\Piano.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfoInputs.cache
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfo.cs
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\Piano.csproj.CoreCompileInputs.cache
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\Piano.dll
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\refint\Piano.dll
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\Piano.pdb
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\Piano.genruntimeconfig.cache
+E:\Lessons\П\C#\Практические\Piano\Piano\Piano\obj\Debug\net6.0\ref\Piano.dll
